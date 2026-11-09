@@ -1,0 +1,6 @@
+{
+  "name": "Stark Technologies",
+  "description": "Professional website for Stark Technologies, a tech solutions provider.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
